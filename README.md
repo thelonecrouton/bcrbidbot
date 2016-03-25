@@ -14,3 +14,4 @@ followed by 'importprivkey privkey'.
 6. Start bcrbidbot with 'python bcrbidbot.py' or whatever is appropriate for your OS.
 7. You can select either a one-off bid or an everyday bid at a specified time.
 8. When you have entered your preferences, click Bid!
+9. You can change your scheduled bid time/amount, just click Bid! again afterwards to queue the new bid.
