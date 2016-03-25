@@ -1,2 +1,2 @@
 # bcrbidbot
-GUI bot for sceduled Electrum payments targeted towards bidding for Bitcredit (BCR)
+PyQT GUI bot for scheduled Electrum BTC payments, targeted towards bidding for Bitcredit (BCR)
