@@ -16,3 +16,11 @@ followed by 'importprivkey privkey'.
 8. You can select either a one-off bid or an everyday bid at a specified time.
 9. When you have entered your preferences, click Bid!
 10. You can change your scheduled bid time/amount, just click Bid! again afterwards to queue the new bid.
+
+
+License
+
+bcrbidbot is released under the terms of the MIT license. For more information see http://opensource.org/licenses/MIT.
+
+
+Copyright (c) 2016 thelonecrouton
