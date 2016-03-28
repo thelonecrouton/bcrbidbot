@@ -130,7 +130,7 @@ class CC(QtGui.QWidget):
         c3b.move(210, 270)
         c3b.setObjectName('c3b')
 
-        b1 = QtGui.QRadioButton('Make one-time bid as per calc above ', self)
+        b1 = QtGui.QRadioButton('Make one-time bid, now, as per calc above ', self)
         b1.setChecked(False)
         b1.move(20, 300)
         b1.setObjectName('b1')
