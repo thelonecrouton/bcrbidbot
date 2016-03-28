@@ -17,6 +17,9 @@ followed by 'importprivkey privkey'.
 9. When you have entered your preferences, click Bid!
 10. You can change your scheduled bid time/amount, just click Bid! again afterwards to queue the new bid.
 
+IMPORTANT NOTE: 
+
+bcrbidbot will attemp to send the BTC amount THAT IS IN THE AMOUNT FIELD AT THE TIME THE BID IS MADE. So if you schedule a bid of 0.1 BTC, but later change that amount in the entry box to 10 BTC before the bid is made, 10 BTC is what will get bid! Future versions might 'lock' the bid at the amount in the box at the time the bid button is clicked, this version DOES NOT.
 
 License
 
