@@ -395,7 +395,7 @@ class CC(QtGui.QWidget):
             if schedbit == '1':
 	        s3 = self.gets3()
                 a = datetime.timedelta(seconds=int(s3))
-                status.setText('Status: Bid scheduled for...' + str(a))
+                status.setText('Status: Bid scheduled, countdown...' + str(a))
             time.sleep(10)
      	
 
