@@ -2,7 +2,12 @@
 
 PyQT GUI bot for scheduled Electrum BTC payments, targeted towards bidding for Bitcredit (BCR)
 
+Disclaimer:
+
+This is beta software, use at your own risk, absolutely no warranty implied or given, if something goes wrong it's all your fault.
+
 Dependencies:
+
 sudo pip install pexpect
 
 Instructions:
